@@ -3,13 +3,19 @@
 // ========================================================
 // Description: Learning basic JS syntax, math, and how to interact with the DOM (webpage) using the Console.
 
-// 1. Triggering a popup alert on the screen
+// --------------------------------------------------------
+// 1. TRIGGERING POPUPS
+// --------------------------------------------------------
 alert('hello');
 alert('Good job!');
 
-// 2. Basic Math
+// --------------------------------------------------------
+// 2. BASIC MATH
+// --------------------------------------------------------
 2 + 2;
 10 - 3;
 
-// 3. Changing the text on the webpage directly from the console
+// --------------------------------------------------------
+// 3. INTERACTING WITH THE DOM
+// --------------------------------------------------------
 document.body.innerHTML = 'hello';
