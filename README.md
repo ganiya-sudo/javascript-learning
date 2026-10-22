@@ -2,11 +2,9 @@
 
 This repository contains my code, notes, and projects as I learn JavaScript from the ground up.
 
-**Topics covered:**
+**Progress Tracker:**
 
-**Basics:** Variables, Syntax, Console, and Math
+* [x] **Lesson 1:** Basics, Syntax, and Console
+* [x] **Lesson 2:** Numbers, Math, and Floating-Point Errors
+* [x] **Lesson 3:** Strings, Concatenation, and Interpolation
 
-- [x] Lesson 1: Basics, Syntax, and Console
-
-
-**Status:** In Progress
