@@ -1,29 +1,16 @@
-/*
-========================================================
-LESSON 1: How JavaScript Gives Instructions to a Computer
-========================================================
-Description: Learning basic JS syntax, math, and how to interact with the DOM using the console.
-*/
+// ========================================================
+// LESSON 1: How JavaScript Gives Instructions to a Computer
+// ========================================================
 
-/*
---------------------------------------------------------
-1. TRIGGERING POPUPS
---------------------------------------------------------
-*/
+// Description: Learning basic JS syntax, math, and how to interact with the DOM.
+
+// 1. TRIGGERING POPUPS
 alert('hello');
 alert('Good job!');
 
-/*
---------------------------------------------------------
-2. BASIC MATH
---------------------------------------------------------
-*/
+// 2. BASIC MATH
 2 + 2;
 10 - 3;
 
-/*
---------------------------------------------------------
-3. INTERACTING WITH THE DOM
---------------------------------------------------------
-*/
+// 3. INTERACTING WITH THE DOM
 document.body.innerHTML = 'hello';
