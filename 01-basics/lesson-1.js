@@ -1,5 +1,5 @@
 ========================================================
- **LESSON 1: How JavaScript Gives Instructions to a Computer**
+LESSON 1: How JavaScript Gives Instructions to a Computer
 ========================================================
 Description: Learning basic JS syntax, math, and how to interact with the DOM (webpage) using the Console.
 
