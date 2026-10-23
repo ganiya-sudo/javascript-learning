@@ -1,0 +1,47 @@
+<!-- ========================================================
+LESSON 4: HTML, CSS, and JavaScript Together
+======================================================== -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+    <style>
+      /* CSS: Styling the buttons */
+      .red-button {
+        background-color: red;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        cursor: pointer;
+      }
+
+      .yellow-button {
+        background-color: yellow;
+        color: black;
+        padding: 10px 20px;
+        border: none;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- HTML: Creating the buttons -->
+    <button title="Good job!" class="red-button" onclick="alert('Good job!');">
+      hello
+    </button>
+
+    <p>
+      paragraph of <button class="yellow-button">hello</button> text
+    </p>
+
+    <!-- JavaScript: Running code inside the HTML -->
+    <script>
+      // This is a comment.
+      alert('hello');
+      2 + 2;
+      console.log(2 + 2);
+      console.log('some' + 'text');
+    </script>
+  </body>
+</html>
