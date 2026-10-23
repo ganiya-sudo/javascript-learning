@@ -7,4 +7,5 @@ This repository contains my code, notes, and projects as I learn JavaScript from
 * [x] **Lesson 1:** Basics, Syntax, and Console
 * [x] **Lesson 2:** Numbers, Math, and Floating-Point Errors
 * [x] **Lesson 3:** Strings, Concatenation, and Interpolation
+* [x] **Lesson 4:** HTML, CSS, and JavaScript Together (`<script>`, `onclick`, `console.log`)
 
