@@ -11,5 +11,6 @@ This repository contains my code, notes, and projects as I learn JavaScript from
 * [x] **Lesson 5:** Variables (`let`, `const`), Re-assignment, and Naming Conventions
 * [x] **Lesson 6:** Booleans, If-Statements, Logical Operators, and Truthy/Falsy values
 * [x] **Lesson 7:** Functions and Objects
-* [ ] * [x] **Lesson 8:** The DOM & Event Listeners
+* [x] **Lesson 8:** The DOM & Event Listeners
+* [x] **Lesson 9:** Arrays and Loops
 
