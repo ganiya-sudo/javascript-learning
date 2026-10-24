@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!-- ========================================================
+LESSON 8: The DOM & Event Listeners
+======================================================== -->
+
+<html>
+  <head>
+    <title>Dom</title>
+  </head>
+  <body>
+
+    <button class="my-button"
+    >Click me!
+  </button>
+
+    <script>
+      // 1. Grab the button
+      const myButton = document.querySelector('.my-button');
+      
+      // 2. Change the text
+      myButton.innerHTML = 'Click me!';
+
+      // 3. Listen for the click
+      myButton.addEventListener('click', () => {
+        console.log('Button clicked!');  
+        alert('Hello!');
+      });
+    </script>
+  </body>
+</html>
