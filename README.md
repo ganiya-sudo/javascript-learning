@@ -13,6 +13,5 @@ This repository contains my code, notes, and projects as I learn JavaScript from
 * [x] **Lesson 7:** Functions and Objects
 * [x] **Lesson 8:** The DOM & Event Listeners
 * [x] **Lesson 9:** Arrays and Loops
-* [x] **Lesson 10:** Advanced Functions (Arrow Functions & Returns)
-
+* [x] **Lesson 10:** Advanced Functions (Arrow Functions, Returns, Default Parameters, and `let` vs `const`)
 
